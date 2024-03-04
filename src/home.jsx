@@ -7,6 +7,10 @@ const home = () => {
         <input type="text" />
         <button>Add</button>
       </div>
+      <div>
+        <button>Edit</button>
+        <button>Delet</button>
+      </div>
     </>
   );
 };
